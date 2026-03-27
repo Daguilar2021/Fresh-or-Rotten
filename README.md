@@ -17,6 +17,7 @@ Food waste is a global issue, and automated image-based quality inspection syste
 - Image resolution: **150 × 150 × 3**
 - Dataset size: ~5,000+ images
 - Dataset **not included** in this repository due to size constraints
+- URL: https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification
 
 ---
 
